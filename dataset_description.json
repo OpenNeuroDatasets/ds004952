@@ -6,5 +6,7 @@
         "Xinyu Mou",
         "Cuilin He",
         "Liwei Tan"
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004952.v1.0.0",
+    "License": "CC0"
 }
