@@ -1,0 +1,12 @@
+{
+    "Name": "Novel Reading",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Xinyu Mou",
+        "Cuilin He",
+        "Liwei Tan"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004952.v1.0.2",
+    "License": "CC0"
+}
