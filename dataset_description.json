@@ -1,5 +1,5 @@
 {
-    "Name": "Novel Reading",
+    "Name": "ChineseEEG: A Chinese Linguistic Corpora EEG Dataset for Semantic Alignment and Neural Decoding",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "Authors": [
