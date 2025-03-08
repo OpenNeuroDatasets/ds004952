@@ -20,7 +20,7 @@
         "Quanying Liu",
         "Haiyan Wu"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds004952.v1.2.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004952.v1.2.2",
     "License": "CC0",
     "ReferencesAndLinks": [
         "Mou, X., He, C., Tan, L. et al. ChineseEEG: A Chinese Linguistic Corpora EEG Dataset for Semantic Alignment and Neural Decoding. Sci Data 11, 550 (2024). https://doi.org/10.1038/s41597-024-03398-7"
